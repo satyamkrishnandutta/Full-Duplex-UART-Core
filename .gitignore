@@ -1,0 +1,6 @@
+*.out
+*.vcd
+*.vvp
+*.log
+.Xil/
+xsim.dir/
